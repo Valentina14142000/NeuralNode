@@ -41,41 +41,6 @@ src/
 └── firebase/          # Firebase client configuration and hooks
 ```
 
-## ⚙️ Getting Started
-
-### Prerequisites
-
-- Node.js 20+
-- A Google Cloud Project with Gemini API access (for Genkit)
-- A Firebase Project
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/neuralnode.git
-   cd neuralnode
-   ```
-
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-3. Set up environment variables:
-   Create a `.env` file in the root and add your configuration:
-   ```env
-   GOOGLE_GENAI_API_KEY=your_api_key_here
-   # Firebase Config (if applicable)
-   NEXT_PUBLIC_FIREBASE_API_KEY=...
-   ```
-
-4. Run the development server:
-   ```bash
-   npm run dev
-   ```
-
-Open [http://localhost:9002](http://localhost:9002) to view the application.
 
 ## 🤖 AI Workflows
 
@@ -86,4 +51,4 @@ NeuralNode leverages **Genkit** to handle complex AI logic:
 
 ---
 
-Built with ❤️ for the future of AI work.
+Built by Valentina Kiyungi.

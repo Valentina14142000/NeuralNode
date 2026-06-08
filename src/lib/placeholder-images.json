@@ -1,3 +1,22 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-bg",
+      "description": "Abstract neural network connection pattern",
+      "imageUrl": "https://picsum.photos/seed/neural1/1200/800",
+      "imageHint": "neural network"
+    },
+    {
+      "id": "freelancer-1",
+      "description": "AI developer portrait",
+      "imageUrl": "https://picsum.photos/seed/freelancer1/400/400",
+      "imageHint": "developer portrait"
+    },
+    {
+      "id": "freelancer-2",
+      "description": "Prompt engineer portrait",
+      "imageUrl": "https://picsum.photos/seed/freelancer2/400/400",
+      "imageHint": "engineer portrait"
+    }
+  ]
 }
